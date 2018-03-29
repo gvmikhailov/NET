@@ -5700,15 +5700,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "D:\\gm\\c#\\Star-staff\\UnitTests\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "D:\\gm\\NET\\Star-staff\\UnitTests\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "D:\\gm\\c#\\Star-staff\\UnitTests\\UnitTests\\UnitTests.csproj",
+      "projectPath": "D:\\gm\\NET\\Star-staff\\UnitTests\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\gmikhailov\\.nuget\\packages\\",
-      "outputPath": "D:\\gm\\c#\\Star-staff\\UnitTests\\UnitTests\\obj\\",
+      "outputPath": "D:\\gm\\NET\\Star-staff\\UnitTests\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
