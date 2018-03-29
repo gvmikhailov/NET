@@ -5,3 +5,10 @@ D:\gm\c#\acmp.ru\0008\0008\obj\Debug\0008.csprojResolveAssemblyReference.cache
 D:\gm\c#\acmp.ru\0008\0008\obj\Debug\0008.csproj.CoreCompileInputs.cache
 D:\gm\c#\acmp.ru\0008\0008\obj\Debug\0008.exe
 D:\gm\c#\acmp.ru\0008\0008\obj\Debug\0008.pdb
+D:\gm\NET\acmp.ru\0008\0008\bin\Debug\0008.exe.config
+D:\gm\NET\acmp.ru\0008\0008\bin\Debug\0008.exe
+D:\gm\NET\acmp.ru\0008\0008\bin\Debug\0008.pdb
+D:\gm\NET\acmp.ru\0008\0008\obj\Debug\0008.csprojResolveAssemblyReference.cache
+D:\gm\NET\acmp.ru\0008\0008\obj\Debug\0008.csproj.CoreCompileInputs.cache
+D:\gm\NET\acmp.ru\0008\0008\obj\Debug\0008.exe
+D:\gm\NET\acmp.ru\0008\0008\obj\Debug\0008.pdb

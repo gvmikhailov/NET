@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\gm\\c#\\acmp.ru\\0582\\0582\\0582.csproj",
+      "projectUniqueName": "D:\\gm\\NET\\acmp.ru\\0582\\0582\\0582.csproj",
       "projectName": "0582",
-      "projectPath": "D:\\gm\\c#\\acmp.ru\\0582\\0582\\0582.csproj",
+      "projectPath": "D:\\gm\\NET\\acmp.ru\\0582\\0582\\0582.csproj",
       "packagesPath": "C:\\Users\\gmikhailov\\.nuget\\packages\\",
-      "outputPath": "D:\\gm\\c#\\acmp.ru\\0582\\0582\\obj\\",
+      "outputPath": "D:\\gm\\NET\\acmp.ru\\0582\\0582\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
