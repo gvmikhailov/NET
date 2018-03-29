@@ -12,3 +12,10 @@ D:\gm\c#\FromWork\TurningGrill\TurningGrill\obj\Debug\TurningGrill.csprojResolve
 D:\gm\c#\FromWork\TurningGrill\TurningGrill\obj\Debug\TurningGrill.csproj.CoreCompileInputs.cache
 D:\gm\c#\FromWork\TurningGrill\TurningGrill\obj\Debug\TurningGrill.exe
 D:\gm\c#\FromWork\TurningGrill\TurningGrill\obj\Debug\TurningGrill.pdb
+D:\gm\NET\Current\TurningGrill\TurningGrill\bin\Debug\TurningGrill.exe.config
+D:\gm\NET\Current\TurningGrill\TurningGrill\bin\Debug\TurningGrill.exe
+D:\gm\NET\Current\TurningGrill\TurningGrill\bin\Debug\TurningGrill.pdb
+D:\gm\NET\Current\TurningGrill\TurningGrill\obj\Debug\TurningGrill.csprojResolveAssemblyReference.cache
+D:\gm\NET\Current\TurningGrill\TurningGrill\obj\Debug\TurningGrill.csproj.CoreCompileInputs.cache
+D:\gm\NET\Current\TurningGrill\TurningGrill\obj\Debug\TurningGrill.exe
+D:\gm\NET\Current\TurningGrill\TurningGrill\obj\Debug\TurningGrill.pdb

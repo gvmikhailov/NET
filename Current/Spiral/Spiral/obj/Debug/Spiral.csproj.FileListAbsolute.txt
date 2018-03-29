@@ -5,3 +5,10 @@ D:\C#\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
 D:\C#\Spiral\Spiral\obj\Debug\Spiral.csproj.CoreCompileInputs.cache
 D:\C#\Spiral\Spiral\obj\Debug\Spiral.exe
 D:\C#\Spiral\Spiral\obj\Debug\Spiral.pdb
+D:\gm\NET\Current\Spiral\Spiral\bin\Debug\Spiral.exe.config
+D:\gm\NET\Current\Spiral\Spiral\bin\Debug\Spiral.exe
+D:\gm\NET\Current\Spiral\Spiral\bin\Debug\Spiral.pdb
+D:\gm\NET\Current\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
+D:\gm\NET\Current\Spiral\Spiral\obj\Debug\Spiral.csproj.CoreCompileInputs.cache
+D:\gm\NET\Current\Spiral\Spiral\obj\Debug\Spiral.exe
+D:\gm\NET\Current\Spiral\Spiral\obj\Debug\Spiral.pdb

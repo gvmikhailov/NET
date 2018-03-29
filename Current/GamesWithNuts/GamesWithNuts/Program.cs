@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// http://acm.timus.ru/problem.aspx?space=1&num=2068
+
 namespace GamesWithNuts
 {
     class Program
     {
-        // ответ есть в обсуждении на форуме
         static Random rnd = new Random();
         static void Main(string[] args)
         {

@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// http://acm.timus.ru/problem.aspx?space=1&num=1290
+
 namespace Sabotage
 {
     class Program

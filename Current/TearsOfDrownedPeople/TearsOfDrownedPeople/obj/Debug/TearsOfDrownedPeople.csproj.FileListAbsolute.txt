@@ -5,3 +5,10 @@ D:\C#\TearsOfDrownedPeople\TearsOfDrownedPeople\obj\Debug\TearsOfDrownedPeople.c
 D:\C#\TearsOfDrownedPeople\TearsOfDrownedPeople\obj\Debug\TearsOfDrownedPeople.csproj.CoreCompileInputs.cache
 D:\C#\TearsOfDrownedPeople\TearsOfDrownedPeople\obj\Debug\TearsOfDrownedPeople.exe
 D:\C#\TearsOfDrownedPeople\TearsOfDrownedPeople\obj\Debug\TearsOfDrownedPeople.pdb
+D:\gm\NET\Current\TearsOfDrownedPeople\TearsOfDrownedPeople\bin\Debug\TearsOfDrownedPeople.exe.config
+D:\gm\NET\Current\TearsOfDrownedPeople\TearsOfDrownedPeople\bin\Debug\TearsOfDrownedPeople.exe
+D:\gm\NET\Current\TearsOfDrownedPeople\TearsOfDrownedPeople\bin\Debug\TearsOfDrownedPeople.pdb
+D:\gm\NET\Current\TearsOfDrownedPeople\TearsOfDrownedPeople\obj\Debug\TearsOfDrownedPeople.csprojResolveAssemblyReference.cache
+D:\gm\NET\Current\TearsOfDrownedPeople\TearsOfDrownedPeople\obj\Debug\TearsOfDrownedPeople.csproj.CoreCompileInputs.cache
+D:\gm\NET\Current\TearsOfDrownedPeople\TearsOfDrownedPeople\obj\Debug\TearsOfDrownedPeople.exe
+D:\gm\NET\Current\TearsOfDrownedPeople\TearsOfDrownedPeople\obj\Debug\TearsOfDrownedPeople.pdb

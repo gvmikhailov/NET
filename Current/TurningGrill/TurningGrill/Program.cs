@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// http://acm.timus.ru/problem.aspx?space=1&num=1712
+
 namespace TurningGrill
 {
     class Program
@@ -22,25 +24,24 @@ namespace TurningGrill
                 { "g", "b", "o", "c" },
                 { "p", "h", "d", "l" }
             };
-            List<string> password = new List<string>();
-            Program start = new Program();
-            start.StartMartix(turningMatrix, passwordMatrix, password);
-            start.TurnMartix(ref turningMatrix);
+            List<string> password = new List<string>();            
+            password = StartMartix(turningMatrix, passwordMatrix, password);
+            turningMatrix = TurnMartix(turningMatrix);
             Console.WriteLine();
-            start.StartMartix(turningMatrix, passwordMatrix, password);
-            start.TurnMartix(ref turningMatrix);
+            password = StartMartix(turningMatrix, passwordMatrix, password);
+            turningMatrix = TurnMartix(turningMatrix);
             Console.WriteLine();
-            start.StartMartix(turningMatrix, passwordMatrix, password);
-            start.TurnMartix(ref turningMatrix);
+            password = StartMartix(turningMatrix, passwordMatrix, password);
+            turningMatrix = TurnMartix(turningMatrix);
             Console.WriteLine();
-            start.StartMartix(turningMatrix, passwordMatrix, password);
+            password = StartMartix(turningMatrix, passwordMatrix, password);
             foreach (string letters in password)
             {
                 Console.Write(letters);
             }
             Console.WriteLine();
         }
-        public List<string> StartMartix(string[,] turningMatrix, string[,] passwordMatrix, List<string> password)
+        public static List<string> StartMartix(string[,] turningMatrix, string[,] passwordMatrix, List<string> password)
         { 
             for (int i = 0; i < 4; i++)
             {
@@ -58,7 +59,7 @@ namespace TurningGrill
             }
             return password;
         }
-        public string[,] TurnMartix(ref string[,] turningMatrix)
+        public static string[,] TurnMartix(string[,] turningMatrix)
         {
             int i;
             int j;
