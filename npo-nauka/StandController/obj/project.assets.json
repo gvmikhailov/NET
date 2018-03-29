@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\gm\\c#\\npo-nauka\\StandController\\StandController\\StandController.csproj",
+      "projectUniqueName": "D:\\gm\\NET\\npo-nauka\\StandController\\StandController\\StandController.csproj",
       "projectName": "StandController",
-      "projectPath": "D:\\gm\\c#\\npo-nauka\\StandController\\StandController\\StandController.csproj",
+      "projectPath": "D:\\gm\\NET\\npo-nauka\\StandController\\StandController\\StandController.csproj",
       "packagesPath": "C:\\Users\\gmikhailov\\.nuget\\packages\\",
-      "outputPath": "D:\\gm\\c#\\npo-nauka\\StandController\\StandController\\obj\\",
+      "outputPath": "D:\\gm\\NET\\npo-nauka\\StandController\\StandController\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

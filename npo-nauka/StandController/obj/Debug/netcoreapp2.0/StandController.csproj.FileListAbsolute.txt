@@ -20,3 +20,14 @@ D:\gm\c#\Repo\npo-nauka\NPO-Nauka\StandController\StandController\obj\Debug\netc
 D:\gm\c#\Repo\npo-nauka\NPO-Nauka\StandController\StandController\obj\Debug\netcoreapp2.0\StandController.AssemblyInfo.cs
 D:\gm\c#\Repo\npo-nauka\NPO-Nauka\StandController\StandController\obj\Debug\netcoreapp2.0\StandController.dll
 D:\gm\c#\Repo\npo-nauka\NPO-Nauka\StandController\StandController\obj\Debug\netcoreapp2.0\StandController.pdb
+D:\gm\NET\npo-nauka\StandController\StandController\obj\Debug\netcoreapp2.0\StandController.dll
+D:\gm\NET\npo-nauka\StandController\StandController\obj\Debug\netcoreapp2.0\StandController.pdb
+D:\gm\NET\npo-nauka\StandController\StandController\bin\Debug\netcoreapp2.0\StandController.deps.json
+D:\gm\NET\npo-nauka\StandController\StandController\bin\Debug\netcoreapp2.0\StandController.runtimeconfig.json
+D:\gm\NET\npo-nauka\StandController\StandController\bin\Debug\netcoreapp2.0\StandController.runtimeconfig.dev.json
+D:\gm\NET\npo-nauka\StandController\StandController\bin\Debug\netcoreapp2.0\StandController.dll
+D:\gm\NET\npo-nauka\StandController\StandController\bin\Debug\netcoreapp2.0\StandController.pdb
+D:\gm\NET\npo-nauka\StandController\StandController\obj\Debug\netcoreapp2.0\StandController.csprojResolveAssemblyReference.cache
+D:\gm\NET\npo-nauka\StandController\StandController\obj\Debug\netcoreapp2.0\StandController.csproj.CoreCompileInputs.cache
+D:\gm\NET\npo-nauka\StandController\StandController\obj\Debug\netcoreapp2.0\StandController.AssemblyInfoInputs.cache
+D:\gm\NET\npo-nauka\StandController\StandController\obj\Debug\netcoreapp2.0\StandController.AssemblyInfo.cs

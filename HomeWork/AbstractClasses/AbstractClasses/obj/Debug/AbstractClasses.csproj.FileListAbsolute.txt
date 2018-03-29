@@ -5,3 +5,10 @@ D:\gm\c#\HomeWork\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.cspr
 D:\gm\c#\HomeWork\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
 D:\gm\c#\HomeWork\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
 D:\gm\c#\HomeWork\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
+D:\gm\NET\HomeWork\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+D:\gm\NET\HomeWork\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+D:\gm\NET\HomeWork\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+D:\gm\NET\HomeWork\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojResolveAssemblyReference.cache
+D:\gm\NET\HomeWork\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\gm\NET\HomeWork\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+D:\gm\NET\HomeWork\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
