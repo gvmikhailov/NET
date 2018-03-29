@@ -1,0 +1,7 @@
+D:\C#\SumOfConsecutiveNumbers\SumOfConsecutiveNumbers\bin\Debug\SumOfConsecutiveNumbers.exe.config
+D:\C#\SumOfConsecutiveNumbers\SumOfConsecutiveNumbers\bin\Debug\SumOfConsecutiveNumbers.exe
+D:\C#\SumOfConsecutiveNumbers\SumOfConsecutiveNumbers\bin\Debug\SumOfConsecutiveNumbers.pdb
+D:\C#\SumOfConsecutiveNumbers\SumOfConsecutiveNumbers\obj\Debug\SumOfConsecutiveNumbers.csprojResolveAssemblyReference.cache
+D:\C#\SumOfConsecutiveNumbers\SumOfConsecutiveNumbers\obj\Debug\SumOfConsecutiveNumbers.csproj.CoreCompileInputs.cache
+D:\C#\SumOfConsecutiveNumbers\SumOfConsecutiveNumbers\obj\Debug\SumOfConsecutiveNumbers.exe
+D:\C#\SumOfConsecutiveNumbers\SumOfConsecutiveNumbers\obj\Debug\SumOfConsecutiveNumbers.pdb

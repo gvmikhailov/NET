@@ -1,0 +1,9 @@
+D:\gm\c#\Star-staff\Interface\Interface\obj\Debug\GeometricalFigureSquare.csprojResolveAssemblyReference.cache
+D:\gm\c#\Star-staff\Interface\Interface\obj\Debug\GeometricalFigureSquare.csproj.CoreCompileInputs.cache
+D:\gm\c#\Star-staff\Interface\Interface\obj\Debug\TriangleInterface.exe
+D:\gm\c#\Star-staff\Interface\Interface\obj\Debug\TriangleInterface.pdb
+D:\gm\c#\Star-staff\Interface\Interface\bin\Debug\TriangleInterface.exe.config
+D:\gm\c#\Star-staff\Interface\Interface\bin\Debug\TriangleInterface.exe
+D:\gm\c#\Star-staff\Interface\Interface\bin\Debug\TriangleInterface.pdb
+D:\gm\c#\Star-staff\Interface\Interface\bin\Debug\GeometricalFigureSquare.dll
+D:\gm\c#\Star-staff\Interface\Interface\bin\Debug\GeometricalFigureSquare.pdb

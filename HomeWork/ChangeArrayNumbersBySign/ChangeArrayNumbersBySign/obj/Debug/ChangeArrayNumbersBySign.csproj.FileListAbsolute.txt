@@ -1,0 +1,13 @@
+D:\Downloads\Distrz\c#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\bin\Debug\ChangeArrayNumbersBySign.exe.config
+D:\Downloads\Distrz\c#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\bin\Debug\ChangeArrayNumbersBySign.exe
+D:\Downloads\Distrz\c#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\bin\Debug\ChangeArrayNumbersBySign.pdb
+D:\Downloads\Distrz\c#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\obj\Debug\ChangeArrayNumbersBySign.csprojResolveAssemblyReference.cache
+D:\Downloads\Distrz\c#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\obj\Debug\ChangeArrayNumbersBySign.exe
+D:\Downloads\Distrz\c#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\obj\Debug\ChangeArrayNumbersBySign.pdb
+D:\gm\GDrive\C#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\bin\Debug\ChangeArrayNumbersBySign.exe.config
+D:\gm\GDrive\C#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\bin\Debug\ChangeArrayNumbersBySign.exe
+D:\gm\GDrive\C#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\bin\Debug\ChangeArrayNumbersBySign.pdb
+D:\gm\GDrive\C#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\obj\Debug\ChangeArrayNumbersBySign.csprojResolveAssemblyReference.cache
+D:\gm\GDrive\C#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\obj\Debug\ChangeArrayNumbersBySign.csproj.CoreCompileInputs.cache
+D:\gm\GDrive\C#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\obj\Debug\ChangeArrayNumbersBySign.exe
+D:\gm\GDrive\C#\ChangeArrayNumbersBySign\ChangeArrayNumbersBySign\obj\Debug\ChangeArrayNumbersBySign.pdb

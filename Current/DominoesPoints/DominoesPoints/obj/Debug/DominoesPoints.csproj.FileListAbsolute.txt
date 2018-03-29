@@ -1,0 +1,7 @@
+D:\C#\DominoesPoints\DominoesPoints\bin\Debug\DominoesPoints.exe.config
+D:\C#\DominoesPoints\DominoesPoints\bin\Debug\DominoesPoints.exe
+D:\C#\DominoesPoints\DominoesPoints\bin\Debug\DominoesPoints.pdb
+D:\C#\DominoesPoints\DominoesPoints\obj\Debug\DominoesPoints.csprojResolveAssemblyReference.cache
+D:\C#\DominoesPoints\DominoesPoints\obj\Debug\DominoesPoints.csproj.CoreCompileInputs.cache
+D:\C#\DominoesPoints\DominoesPoints\obj\Debug\DominoesPoints.exe
+D:\C#\DominoesPoints\DominoesPoints\obj\Debug\DominoesPoints.pdb

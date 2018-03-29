@@ -1,0 +1,7 @@
+D:\gm\c#\HomeWork\Accessors\Accessors\bin\Debug\Accessors.exe.config
+D:\gm\c#\HomeWork\Accessors\Accessors\bin\Debug\Accessors.exe
+D:\gm\c#\HomeWork\Accessors\Accessors\bin\Debug\Accessors.pdb
+D:\gm\c#\HomeWork\Accessors\Accessors\obj\Debug\Accessors.csprojResolveAssemblyReference.cache
+D:\gm\c#\HomeWork\Accessors\Accessors\obj\Debug\Accessors.csproj.CoreCompileInputs.cache
+D:\gm\c#\HomeWork\Accessors\Accessors\obj\Debug\Accessors.exe
+D:\gm\c#\HomeWork\Accessors\Accessors\obj\Debug\Accessors.pdb

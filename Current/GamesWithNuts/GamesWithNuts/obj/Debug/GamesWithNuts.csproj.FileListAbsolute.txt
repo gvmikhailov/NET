@@ -1,0 +1,7 @@
+C:\Users\gmikhailov\source\repos\GamesWithNuts\GamesWithNuts\bin\Debug\GamesWithNuts.exe.config
+C:\Users\gmikhailov\source\repos\GamesWithNuts\GamesWithNuts\bin\Debug\GamesWithNuts.exe
+C:\Users\gmikhailov\source\repos\GamesWithNuts\GamesWithNuts\bin\Debug\GamesWithNuts.pdb
+C:\Users\gmikhailov\source\repos\GamesWithNuts\GamesWithNuts\obj\Debug\GamesWithNuts.csprojResolveAssemblyReference.cache
+C:\Users\gmikhailov\source\repos\GamesWithNuts\GamesWithNuts\obj\Debug\GamesWithNuts.csproj.CoreCompileInputs.cache
+C:\Users\gmikhailov\source\repos\GamesWithNuts\GamesWithNuts\obj\Debug\GamesWithNuts.exe
+C:\Users\gmikhailov\source\repos\GamesWithNuts\GamesWithNuts\obj\Debug\GamesWithNuts.pdb

@@ -1,0 +1,7 @@
+D:\gm\c#\HomeWork\ConditionalStatements2\ConditionalStatements2\bin\Debug\ConditionalStatements2.exe.config
+D:\gm\c#\HomeWork\ConditionalStatements2\ConditionalStatements2\bin\Debug\ConditionalStatements2.exe
+D:\gm\c#\HomeWork\ConditionalStatements2\ConditionalStatements2\bin\Debug\ConditionalStatements2.pdb
+D:\gm\c#\HomeWork\ConditionalStatements2\ConditionalStatements2\obj\Debug\ConditionalStatements2.csprojResolveAssemblyReference.cache
+D:\gm\c#\HomeWork\ConditionalStatements2\ConditionalStatements2\obj\Debug\ConditionalStatements2.csproj.CoreCompileInputs.cache
+D:\gm\c#\HomeWork\ConditionalStatements2\ConditionalStatements2\obj\Debug\ConditionalStatements2.exe
+D:\gm\c#\HomeWork\ConditionalStatements2\ConditionalStatements2\obj\Debug\ConditionalStatements2.pdb

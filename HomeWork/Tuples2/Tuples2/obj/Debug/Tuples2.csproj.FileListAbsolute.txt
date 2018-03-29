@@ -1,0 +1,9 @@
+D:\gm\c#\HomeWork\Tuples2\Tuples2\bin\Debug\Tuples2.exe.config
+D:\gm\c#\HomeWork\Tuples2\Tuples2\bin\Debug\Tuples2.exe
+D:\gm\c#\HomeWork\Tuples2\Tuples2\bin\Debug\Tuples2.pdb
+D:\gm\c#\HomeWork\Tuples2\Tuples2\bin\Debug\System.ValueTuple.dll
+D:\gm\c#\HomeWork\Tuples2\Tuples2\bin\Debug\System.ValueTuple.xml
+D:\gm\c#\HomeWork\Tuples2\Tuples2\obj\Debug\Tuples2.csprojResolveAssemblyReference.cache
+D:\gm\c#\HomeWork\Tuples2\Tuples2\obj\Debug\Tuples2.csproj.CoreCompileInputs.cache
+D:\gm\c#\HomeWork\Tuples2\Tuples2\obj\Debug\Tuples2.exe
+D:\gm\c#\HomeWork\Tuples2\Tuples2\obj\Debug\Tuples2.pdb

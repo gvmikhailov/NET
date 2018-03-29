@@ -1,0 +1,7 @@
+c:\users\gmikhailov\source\repos\Sabotage\Sabotage\bin\Debug\Sabotage.exe.config
+c:\users\gmikhailov\source\repos\Sabotage\Sabotage\bin\Debug\Sabotage.exe
+c:\users\gmikhailov\source\repos\Sabotage\Sabotage\bin\Debug\Sabotage.pdb
+c:\users\gmikhailov\source\repos\Sabotage\Sabotage\obj\Debug\Sabotage.csprojResolveAssemblyReference.cache
+c:\users\gmikhailov\source\repos\Sabotage\Sabotage\obj\Debug\Sabotage.csproj.CoreCompileInputs.cache
+c:\users\gmikhailov\source\repos\Sabotage\Sabotage\obj\Debug\Sabotage.exe
+c:\users\gmikhailov\source\repos\Sabotage\Sabotage\obj\Debug\Sabotage.pdb

@@ -1,0 +1,7 @@
+D:\C#\AverageCircle\AverageCircle\bin\Debug\AverageCircle.exe.config
+D:\C#\AverageCircle\AverageCircle\bin\Debug\AverageCircle.exe
+D:\C#\AverageCircle\AverageCircle\bin\Debug\AverageCircle.pdb
+D:\C#\AverageCircle\AverageCircle\obj\Debug\AverageCircle.csprojResolveAssemblyReference.cache
+D:\C#\AverageCircle\AverageCircle\obj\Debug\AverageCircle.csproj.CoreCompileInputs.cache
+D:\C#\AverageCircle\AverageCircle\obj\Debug\AverageCircle.exe
+D:\C#\AverageCircle\AverageCircle\obj\Debug\AverageCircle.pdb

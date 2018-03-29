@@ -1,0 +1,7 @@
+D:\C#\GameWithStones\GameWithStones\bin\Debug\GameWithStones.exe.config
+D:\C#\GameWithStones\GameWithStones\bin\Debug\GameWithStones.exe
+D:\C#\GameWithStones\GameWithStones\bin\Debug\GameWithStones.pdb
+D:\C#\GameWithStones\GameWithStones\obj\Debug\GameWithStones.csprojResolveAssemblyReference.cache
+D:\C#\GameWithStones\GameWithStones\obj\Debug\GameWithStones.csproj.CoreCompileInputs.cache
+D:\C#\GameWithStones\GameWithStones\obj\Debug\GameWithStones.exe
+D:\C#\GameWithStones\GameWithStones\obj\Debug\GameWithStones.pdb

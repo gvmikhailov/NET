@@ -1,0 +1,7 @@
+D:\gm\c#\acmp.ru\0021\0021\bin\Debug\0021.exe.config
+D:\gm\c#\acmp.ru\0021\0021\bin\Debug\0021.exe
+D:\gm\c#\acmp.ru\0021\0021\bin\Debug\0021.pdb
+D:\gm\c#\acmp.ru\0021\0021\obj\Debug\0021.csprojResolveAssemblyReference.cache
+D:\gm\c#\acmp.ru\0021\0021\obj\Debug\0021.csproj.CoreCompileInputs.cache
+D:\gm\c#\acmp.ru\0021\0021\obj\Debug\0021.exe
+D:\gm\c#\acmp.ru\0021\0021\obj\Debug\0021.pdb

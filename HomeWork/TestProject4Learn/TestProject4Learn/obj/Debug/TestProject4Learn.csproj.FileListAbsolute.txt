@@ -1,0 +1,7 @@
+D:\gm\c#\HomeWork\TestProject4Learn\TestProject4Learn\bin\Debug\TestProject4Learn.exe.config
+D:\gm\c#\HomeWork\TestProject4Learn\TestProject4Learn\bin\Debug\TestProject4Learn.exe
+D:\gm\c#\HomeWork\TestProject4Learn\TestProject4Learn\bin\Debug\TestProject4Learn.pdb
+D:\gm\c#\HomeWork\TestProject4Learn\TestProject4Learn\obj\Debug\TestProject4Learn.csprojResolveAssemblyReference.cache
+D:\gm\c#\HomeWork\TestProject4Learn\TestProject4Learn\obj\Debug\TestProject4Learn.csproj.CoreCompileInputs.cache
+D:\gm\c#\HomeWork\TestProject4Learn\TestProject4Learn\obj\Debug\TestProject4Learn.exe
+D:\gm\c#\HomeWork\TestProject4Learn\TestProject4Learn\obj\Debug\TestProject4Learn.pdb

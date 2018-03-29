@@ -1,0 +1,7 @@
+D:\gm\c#\HomeWork\Cycle2\Cycle2\bin\Debug\Cycle2.exe.config
+D:\gm\c#\HomeWork\Cycle2\Cycle2\bin\Debug\Cycle2.exe
+D:\gm\c#\HomeWork\Cycle2\Cycle2\bin\Debug\Cycle2.pdb
+D:\gm\c#\HomeWork\Cycle2\Cycle2\obj\Debug\Cycle2.csproj.CoreCompileInputs.cache
+D:\gm\c#\HomeWork\Cycle2\Cycle2\obj\Debug\Cycle2.exe
+D:\gm\c#\HomeWork\Cycle2\Cycle2\obj\Debug\Cycle2.pdb
+D:\gm\c#\HomeWork\Cycle2\Cycle2\obj\Debug\Cycle2.csprojResolveAssemblyReference.cache

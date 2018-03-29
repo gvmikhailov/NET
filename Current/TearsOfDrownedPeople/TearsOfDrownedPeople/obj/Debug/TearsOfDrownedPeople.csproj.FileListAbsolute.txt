@@ -1,0 +1,7 @@
+D:\C#\TearsOfDrownedPeople\TearsOfDrownedPeople\bin\Debug\TearsOfDrownedPeople.exe.config
+D:\C#\TearsOfDrownedPeople\TearsOfDrownedPeople\bin\Debug\TearsOfDrownedPeople.exe
+D:\C#\TearsOfDrownedPeople\TearsOfDrownedPeople\bin\Debug\TearsOfDrownedPeople.pdb
+D:\C#\TearsOfDrownedPeople\TearsOfDrownedPeople\obj\Debug\TearsOfDrownedPeople.csprojResolveAssemblyReference.cache
+D:\C#\TearsOfDrownedPeople\TearsOfDrownedPeople\obj\Debug\TearsOfDrownedPeople.csproj.CoreCompileInputs.cache
+D:\C#\TearsOfDrownedPeople\TearsOfDrownedPeople\obj\Debug\TearsOfDrownedPeople.exe
+D:\C#\TearsOfDrownedPeople\TearsOfDrownedPeople\obj\Debug\TearsOfDrownedPeople.pdb

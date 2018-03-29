@@ -1,0 +1,7 @@
+D:\C#\FlipFlopNumbers\FlipFlopNumbers\bin\Debug\FlipFlopNumbers.exe.config
+D:\C#\FlipFlopNumbers\FlipFlopNumbers\bin\Debug\FlipFlopNumbers.exe
+D:\C#\FlipFlopNumbers\FlipFlopNumbers\bin\Debug\FlipFlopNumbers.pdb
+D:\C#\FlipFlopNumbers\FlipFlopNumbers\obj\Debug\FlipFlopNumbers.csprojResolveAssemblyReference.cache
+D:\C#\FlipFlopNumbers\FlipFlopNumbers\obj\Debug\FlipFlopNumbers.csproj.CoreCompileInputs.cache
+D:\C#\FlipFlopNumbers\FlipFlopNumbers\obj\Debug\FlipFlopNumbers.exe
+D:\C#\FlipFlopNumbers\FlipFlopNumbers\obj\Debug\FlipFlopNumbers.pdb

@@ -1,0 +1,7 @@
+D:\gm\c#\HomeWork\CycleForeach\CycleForeach\bin\Debug\CycleForeach.exe.config
+D:\gm\c#\HomeWork\CycleForeach\CycleForeach\bin\Debug\CycleForeach.exe
+D:\gm\c#\HomeWork\CycleForeach\CycleForeach\bin\Debug\CycleForeach.pdb
+D:\gm\c#\HomeWork\CycleForeach\CycleForeach\obj\Debug\CycleForeach.csprojResolveAssemblyReference.cache
+D:\gm\c#\HomeWork\CycleForeach\CycleForeach\obj\Debug\CycleForeach.csproj.CoreCompileInputs.cache
+D:\gm\c#\HomeWork\CycleForeach\CycleForeach\obj\Debug\CycleForeach.exe
+D:\gm\c#\HomeWork\CycleForeach\CycleForeach\obj\Debug\CycleForeach.pdb

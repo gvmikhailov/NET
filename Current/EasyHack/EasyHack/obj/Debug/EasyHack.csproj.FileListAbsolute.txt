@@ -1,0 +1,7 @@
+D:\C#\EasyHack\EasyHack\bin\Debug\EasyHack.exe.config
+D:\C#\EasyHack\EasyHack\bin\Debug\EasyHack.exe
+D:\C#\EasyHack\EasyHack\bin\Debug\EasyHack.pdb
+D:\C#\EasyHack\EasyHack\obj\Debug\EasyHack.csprojResolveAssemblyReference.cache
+D:\C#\EasyHack\EasyHack\obj\Debug\EasyHack.csproj.CoreCompileInputs.cache
+D:\C#\EasyHack\EasyHack\obj\Debug\EasyHack.exe
+D:\C#\EasyHack\EasyHack\obj\Debug\EasyHack.pdb

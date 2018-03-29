@@ -1,0 +1,16 @@
+D:\gm\c#\Star-staff\UnitTests\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\gm\c#\Star-staff\UnitTests\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\gm\c#\Star-staff\UnitTests\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\gm\c#\Star-staff\UnitTests\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+D:\gm\c#\Star-staff\UnitTests\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+D:\gm\c#\Star-staff\UnitTests\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+D:\gm\c#\Star-staff\UnitTests\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+D:\gm\c#\Star-staff\UnitTests\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+D:\gm\c#\Star-staff\UnitTests\UnitTests\bin\Debug\netcoreapp2.0\GeometricalFigureSquare.dll
+D:\gm\c#\Star-staff\UnitTests\UnitTests\bin\Debug\netcoreapp2.0\GeometricalFigureSquare.pdb
+D:\gm\c#\Star-staff\UnitTests\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+D:\gm\c#\Star-staff\UnitTests\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+D:\gm\c#\Star-staff\UnitTests\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+D:\gm\c#\Star-staff\UnitTests\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+D:\gm\c#\Star-staff\UnitTests\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+D:\gm\c#\Star-staff\UnitTests\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb

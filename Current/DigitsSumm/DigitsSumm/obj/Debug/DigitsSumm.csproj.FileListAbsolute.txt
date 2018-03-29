@@ -1,0 +1,7 @@
+c:\users\gmikhailov\source\repos\DigitsSumm\DigitsSumm\bin\Debug\DigitsSumm.exe.config
+c:\users\gmikhailov\source\repos\DigitsSumm\DigitsSumm\bin\Debug\DigitsSumm.exe
+c:\users\gmikhailov\source\repos\DigitsSumm\DigitsSumm\bin\Debug\DigitsSumm.pdb
+c:\users\gmikhailov\source\repos\DigitsSumm\DigitsSumm\obj\Debug\DigitsSumm.csprojResolveAssemblyReference.cache
+c:\users\gmikhailov\source\repos\DigitsSumm\DigitsSumm\obj\Debug\DigitsSumm.csproj.CoreCompileInputs.cache
+c:\users\gmikhailov\source\repos\DigitsSumm\DigitsSumm\obj\Debug\DigitsSumm.exe
+c:\users\gmikhailov\source\repos\DigitsSumm\DigitsSumm\obj\Debug\DigitsSumm.pdb

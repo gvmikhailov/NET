@@ -1,0 +1,7 @@
+D:\C#\HammingCode\HammingCode\bin\Debug\HammingCode.exe.config
+D:\C#\HammingCode\HammingCode\bin\Debug\HammingCode.exe
+D:\C#\HammingCode\HammingCode\bin\Debug\HammingCode.pdb
+D:\C#\HammingCode\HammingCode\obj\Debug\HammingCode.csprojResolveAssemblyReference.cache
+D:\C#\HammingCode\HammingCode\obj\Debug\HammingCode.csproj.CoreCompileInputs.cache
+D:\C#\HammingCode\HammingCode\obj\Debug\HammingCode.exe
+D:\C#\HammingCode\HammingCode\obj\Debug\HammingCode.pdb
