@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfDecimal", "PowerOfDecimal\PowerOfDecimal.csproj", "{EA24ABBE-0068-4DF4-BE29-A4789C948250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA24ABBE-0068-4DF4-BE29-A4789C948250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA24ABBE-0068-4DF4-BE29-A4789C948250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA24ABBE-0068-4DF4-BE29-A4789C948250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA24ABBE-0068-4DF4-BE29-A4789C948250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDA1FD3D-0F42-46E7-94A1-3CDA4D3DF295}
+	EndGlobalSection
+EndGlobal
