@@ -25,23 +25,27 @@ namespace StandController
 
         public static double PE_BPIndication(double indication, string direction, double limit)
         {
-            double iteration = 0.5;
+            double iteration = 5.5;
             if (direction == "decrease")
             {
+                Console.WriteLine("Идет процесс...");
                 while (indication > limit)
                 {
                     indication -= iteration;
-                }
-                System.Threading.Thread.Sleep(5000);
+                    Console.Write(indication + ", ");
+                    System.Threading.Thread.Sleep(500);
+                }                
                 return indication;
             }
             else
             {
+                Console.WriteLine("Идет процесс...");
                 while (indication < limit)
                 {
                     indication += iteration;
-                }
-                System.Threading.Thread.Sleep(5000);
+                    Console.Write(indication + ", ");
+                    System.Threading.Thread.Sleep(500);
+                }                
                 return indication;
             }
         }

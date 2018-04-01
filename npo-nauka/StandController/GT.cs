@@ -6,9 +6,32 @@ namespace StandController
 {
     class GT : IController
     {
+        private double _indication;
+
         public string Model { get; set; }
         public string State { get; set; }
-        public double Indication { get; set; }
+        public double Indication
+        {
+            get
+            {
+                return _indication;
+            }
+            set
+            {
+                if (value < 0)
+                {
+                    _indication = 0;
+                }
+                else if (value > 99.9)
+                {
+                    _indication = 99.9;
+                }
+                else
+                {
+                    _indication = value;
+                }
+            }
+        }
 
         public GT(string model, string state, double indication)
         {
