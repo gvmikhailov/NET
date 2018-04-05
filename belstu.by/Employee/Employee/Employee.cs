@@ -55,7 +55,7 @@ namespace Employee
 
         internal void PrintInfo()
         {
-            Console.WriteLine($"Сотрудник с табельным номером {Id} имеет оклад {Salary}");
+            Console.WriteLine($"Сотрудник с табельным номером {Id} имеет оклад {Salary} руб.");
         }
     }
 }
