@@ -27,8 +27,8 @@ namespace Plants
             string plantValue = plants[plantKey];
             int treeAge = rnd.Next(-10, 200);
             double flowerHeight = Math.Round(rnd.Next(-5, 11) + rnd.NextDouble(), 2);
-            string roseName = roses[rnd.Next(0, roses.Capacity)+1];
-            string roseColour = rosesColour[rnd.Next(0, rosesColour.Capacity + 1)];
+            string roseName = roses[rnd.Next(0, roses.Count)];
+            string roseColour = rosesColour[rnd.Next(0, rosesColour.Count)];
 
             Plant plant1 = new Plant(plantKey, plantValue);
             plant1.PrintPlantInfo();
