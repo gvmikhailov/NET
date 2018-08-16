@@ -30,13 +30,19 @@ namespace ProductAccounting
             Products prod7 = new Products(counter, products[6], 100);
             counter++;
             Store op7 = new Store(rnd.Next(1000, 9999), "Приемка товара");
+            Store op8 = new Store(rnd.Next(1000, 9999), "Приемка товара");
+            Store op9 = new Store(rnd.Next(1000, 9999), "Приемка товара");
+            Store op10 = new Store(rnd.Next(1000, 9999), "Приемка товара");
+            Store op11 = new Store(rnd.Next(1000, 9999), "Приемка товара");
+            Store op12 = new Store(rnd.Next(1000, 9999), "Приемка товара");
+            Store op13 = new Store(rnd.Next(1000, 9999), "Приемка товара");
             op7.TakeOperation(prod1);
-            op7.TakeOperation(prod2);
-            op7.TakeOperation(prod3);
-            op7.TakeOperation(prod4);
-            op7.TakeOperation(prod5);
-            op7.TakeOperation(prod6);
-            op7.TakeOperation(prod7);
+            op8.TakeOperation(prod2);
+            op9.TakeOperation(prod3);
+            op10.TakeOperation(prod4);
+            op11.TakeOperation(prod5);
+            op12.TakeOperation(prod6);
+            op13.TakeOperation(prod7);
 
             Products prod8 = new Products(counter, products[rnd.Next(0, products.Count)], rnd.Next(1, 100));
             counter++;
@@ -65,6 +71,8 @@ namespace ProductAccounting
 
             Store op6 = new Store(rnd.Next(1000, 9999), "Инвентаризация");
             op6.TakeInventarization();
+
+            Logging.ShowLogging();
         }
     }
 }
