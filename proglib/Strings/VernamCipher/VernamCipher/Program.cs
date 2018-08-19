@@ -30,12 +30,12 @@ namespace VernamCipher
 
         static string VernamEncryptionDecription(string word, string key)
         {
-            string decryptWord = string.Empty;
+            string Word = string.Empty;
             for (int i = 0; i < word.Length; i++)
             {
-                decryptWord += (char)(Convert.ToInt32(word[i]) ^ Convert.ToInt32(key[i]));
+                Word += (char)(Convert.ToInt32(word[i]) ^ Convert.ToInt32(key[i]));
             }
-            return decryptWord;
+            return Word;
         }
     }
 }

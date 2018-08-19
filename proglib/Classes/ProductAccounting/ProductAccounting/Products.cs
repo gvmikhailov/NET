@@ -12,9 +12,8 @@ namespace ProductAccounting
         public int Quantity { get; set; }
         public int Counter { get; set; }
 
-        internal Products(int counter, string productName, int quantity)
+        internal Products(string productName, int quantity)
         {
-            Counter = counter;
             ProductName = productName;
             Quantity = quantity;
         }
