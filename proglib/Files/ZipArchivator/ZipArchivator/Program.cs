@@ -37,7 +37,7 @@ namespace ZipArchivator
 
         static void PrintHelp()
         {
-            Console.WriteLine("\nИСПОЛЬЗОВАНИЕ:\n\tZipArchivator [ /? | /c [Souce file] [Archive file] | /d [Archive file]\nЗдесь:\n\tSource file - Путь к файлу который необходимо заархивировать\n\tArchive file - Путь к архивированному файлу\n\n\tПараметры:\n\t\t/? - Вывод данного справочного сообщения\n\t\t/c - Архивировать файл\n\t\t/d - Разархивировать файл");
+            Console.WriteLine("\nИСПОЛЬЗОВАНИЕ:\n\tZipArchivator  /? | /c Souce file Archive file | /d Archive file\nЗдесь:\n\tSource file - Путь к файлу который необходимо заархивировать\n\tArchive file - Путь к архивированному файлу\n\n\tПараметры:\n\t\t/? - Вывод данного справочного сообщения\n\t\t/c - Архивировать файл\n\t\t/d - Разархивировать файл");
         }
 
         static void Compress(string sourceFile, string archiveFile)
@@ -48,7 +48,15 @@ namespace ZipArchivator
                 {
                     string destinationFile = sourceFile.Substring(sourceFile.LastIndexOf('\\') + 1);
                     string destinationFileZip = archiveFile.Substring(archiveFile.LastIndexOf('\\') + 1);
-                    string directory = archiveFile.Substring(0, archiveFile.LastIndexOf('\\') + 1);
+                    string directory = string.Empty;
+                    if (archiveFile.Contains('\\'))
+                    { 
+                        directory = archiveFile.Substring(0, archiveFile.LastIndexOf('\\') + 1);
+                    }
+                    else
+                    {
+                        directory = Directory.GetCurrentDirectory();
+                    }
                     archive.CreateEntryFromFile(sourceFile, destinationFile);
                     Console.Clear();
                     Console.WriteLine("Сжатие файла {0} завершено. Файл сжат в файл {1} в директории {2}\nНажмите любую кнопку...", destinationFile, destinationFileZip, directory);
@@ -69,7 +77,15 @@ namespace ZipArchivator
             {
                 using (ZipArchive archive = ZipFile.Open(archiveFile, ZipArchiveMode.Read))
                 {
-                    string directory = archiveFile.Substring(0, archiveFile.LastIndexOf('\\') + 1);
+                    string directory = string.Empty;
+                    if (archiveFile.Contains('\\'))
+                    { 
+                        directory = archiveFile.Substring(0, archiveFile.LastIndexOf('\\') + 1);
+                    }
+                    else
+                    {
+                        directory = Directory.GetCurrentDirectory();
+                    }
                     archive.ExtractToDirectory(directory);
                     Console.Clear();
                     Console.WriteLine("Архив разархивирован в {0}\nНажмите любую кнопку...", directory);
