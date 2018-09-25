@@ -18,19 +18,7 @@ namespace FilterLast2
 
         public static IEnumerable<T> FilterLast(IEnumerable<T> sequence, int n)
         {
-            IEnumerable<T> output = new List<T>();
-            foreach (T m in sequence)
-            {
-                if(output.Count() < sequence.Count() - n)
-                {
-                    output = output.Concat(new[] { m });
-                }
-                else
-                {
-                    break;
-                }
-            }
-
+            IEnumerable<T> output = sequence.Take(sequence.Count() - n);
             return output;
         }
     }
