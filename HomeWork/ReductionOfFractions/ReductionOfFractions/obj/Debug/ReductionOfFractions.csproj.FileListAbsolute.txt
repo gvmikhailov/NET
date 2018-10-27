@@ -1,7 +1,0 @@
-D:\gm\c#\HomeWork\ReductionOfFractions\ReductionOfFractions\bin\Debug\ReductionOfFractions.exe.config
-D:\gm\c#\HomeWork\ReductionOfFractions\ReductionOfFractions\bin\Debug\ReductionOfFractions.exe
-D:\gm\c#\HomeWork\ReductionOfFractions\ReductionOfFractions\bin\Debug\ReductionOfFractions.pdb
-D:\gm\c#\HomeWork\ReductionOfFractions\ReductionOfFractions\obj\Debug\ReductionOfFractions.csprojResolveAssemblyReference.cache
-D:\gm\c#\HomeWork\ReductionOfFractions\ReductionOfFractions\obj\Debug\ReductionOfFractions.csproj.CoreCompileInputs.cache
-D:\gm\c#\HomeWork\ReductionOfFractions\ReductionOfFractions\obj\Debug\ReductionOfFractions.exe
-D:\gm\c#\HomeWork\ReductionOfFractions\ReductionOfFractions\obj\Debug\ReductionOfFractions.pdb

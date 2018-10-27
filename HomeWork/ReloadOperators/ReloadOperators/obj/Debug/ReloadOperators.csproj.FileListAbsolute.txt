@@ -1,7 +1,0 @@
-D:\gm\c#\HomeWork\ReloadOperators\ReloadOperators\bin\Debug\ReloadOperators.exe.config
-D:\gm\c#\HomeWork\ReloadOperators\ReloadOperators\bin\Debug\ReloadOperators.exe
-D:\gm\c#\HomeWork\ReloadOperators\ReloadOperators\bin\Debug\ReloadOperators.pdb
-D:\gm\c#\HomeWork\ReloadOperators\ReloadOperators\obj\Debug\ReloadOperators.csprojResolveAssemblyReference.cache
-D:\gm\c#\HomeWork\ReloadOperators\ReloadOperators\obj\Debug\ReloadOperators.csproj.CoreCompileInputs.cache
-D:\gm\c#\HomeWork\ReloadOperators\ReloadOperators\obj\Debug\ReloadOperators.exe
-D:\gm\c#\HomeWork\ReloadOperators\ReloadOperators\obj\Debug\ReloadOperators.pdb

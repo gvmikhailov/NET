@@ -1,7 +1,0 @@
-D:\gm\c#\HomeWork\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
-D:\gm\c#\HomeWork\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
-D:\gm\c#\HomeWork\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
-D:\gm\c#\HomeWork\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csprojResolveAssemblyReference.cache
-D:\gm\c#\HomeWork\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.CoreCompileInputs.cache
-D:\gm\c#\HomeWork\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
-D:\gm\c#\HomeWork\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

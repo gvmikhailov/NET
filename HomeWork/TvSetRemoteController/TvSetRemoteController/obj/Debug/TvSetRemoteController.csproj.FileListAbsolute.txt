@@ -1,7 +1,0 @@
-C:\Users\gmikhailov\source\repos\TvSetRemoteController\TvSetRemoteController\bin\Debug\TvSetRemoteController.exe.config
-C:\Users\gmikhailov\source\repos\TvSetRemoteController\TvSetRemoteController\bin\Debug\TvSetRemoteController.exe
-C:\Users\gmikhailov\source\repos\TvSetRemoteController\TvSetRemoteController\bin\Debug\TvSetRemoteController.pdb
-C:\Users\gmikhailov\source\repos\TvSetRemoteController\TvSetRemoteController\obj\Debug\TvSetRemoteController.csprojResolveAssemblyReference.cache
-C:\Users\gmikhailov\source\repos\TvSetRemoteController\TvSetRemoteController\obj\Debug\TvSetRemoteController.csproj.CoreCompileInputs.cache
-C:\Users\gmikhailov\source\repos\TvSetRemoteController\TvSetRemoteController\obj\Debug\TvSetRemoteController.exe
-C:\Users\gmikhailov\source\repos\TvSetRemoteController\TvSetRemoteController\obj\Debug\TvSetRemoteController.pdb

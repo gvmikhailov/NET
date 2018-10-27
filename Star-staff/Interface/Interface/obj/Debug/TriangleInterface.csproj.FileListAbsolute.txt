@@ -1,9 +1,0 @@
-D:\gm\c#\FromWork\TriangleInterface\TriangleInterface\bin\Debug\TriangleInterface.exe.config
-D:\gm\c#\FromWork\TriangleInterface\TriangleInterface\bin\Debug\TriangleInterface.exe
-D:\gm\c#\FromWork\TriangleInterface\TriangleInterface\bin\Debug\TriangleInterface.pdb
-D:\gm\c#\FromWork\TriangleInterface\TriangleInterface\bin\Debug\RightTriangleSquare.dll
-D:\gm\c#\FromWork\TriangleInterface\TriangleInterface\bin\Debug\RightTriangleSquare.pdb
-D:\gm\c#\FromWork\TriangleInterface\TriangleInterface\obj\Debug\TriangleInterface.csprojResolveAssemblyReference.cache
-D:\gm\c#\FromWork\TriangleInterface\TriangleInterface\obj\Debug\TriangleInterface.csproj.CoreCompileInputs.cache
-D:\gm\c#\FromWork\TriangleInterface\TriangleInterface\obj\Debug\TriangleInterface.exe
-D:\gm\c#\FromWork\TriangleInterface\TriangleInterface\obj\Debug\TriangleInterface.pdb

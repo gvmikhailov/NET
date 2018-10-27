@@ -1,7 +1,0 @@
-D:\gm\c#\HomeWork\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
-D:\gm\c#\HomeWork\Exceptions\Exceptions\bin\Debug\Exceptions.exe
-D:\gm\c#\HomeWork\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
-D:\gm\c#\HomeWork\Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
-D:\gm\c#\HomeWork\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
-D:\gm\c#\HomeWork\Exceptions\Exceptions\obj\Debug\Exceptions.exe
-D:\gm\c#\HomeWork\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

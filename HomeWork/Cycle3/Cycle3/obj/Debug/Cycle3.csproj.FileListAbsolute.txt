@@ -1,7 +1,0 @@
-D:\gm\c#\HomeWork\Cycle3\Cycle3\bin\Debug\Cycle3.exe.config
-D:\gm\c#\HomeWork\Cycle3\Cycle3\bin\Debug\Cycle3.exe
-D:\gm\c#\HomeWork\Cycle3\Cycle3\bin\Debug\Cycle3.pdb
-D:\gm\c#\HomeWork\Cycle3\Cycle3\obj\Debug\Cycle3.csprojResolveAssemblyReference.cache
-D:\gm\c#\HomeWork\Cycle3\Cycle3\obj\Debug\Cycle3.csproj.CoreCompileInputs.cache
-D:\gm\c#\HomeWork\Cycle3\Cycle3\obj\Debug\Cycle3.exe
-D:\gm\c#\HomeWork\Cycle3\Cycle3\obj\Debug\Cycle3.pdb

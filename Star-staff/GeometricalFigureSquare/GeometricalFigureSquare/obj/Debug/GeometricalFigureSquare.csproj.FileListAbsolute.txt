@@ -1,6 +1,0 @@
-D:\gm\c#\Star-staff\GeometricalFigureSquare\GeometricalFigureSquare\obj\Debug\GeometricalFigureSquare.csproj.CoreCompileInputs.cache
-D:\gm\c#\Star-staff\GeometricalFigureSquare\GeometricalFigureSquare\bin\Debug\GeometricalFigureSquare.dll
-D:\gm\c#\Star-staff\GeometricalFigureSquare\GeometricalFigureSquare\bin\Debug\GeometricalFigureSquare.pdb
-D:\gm\c#\Star-staff\GeometricalFigureSquare\GeometricalFigureSquare\obj\Debug\GeometricalFigureSquare.csprojResolveAssemblyReference.cache
-D:\gm\c#\Star-staff\GeometricalFigureSquare\GeometricalFigureSquare\obj\Debug\GeometricalFigureSquare.dll
-D:\gm\c#\Star-staff\GeometricalFigureSquare\GeometricalFigureSquare\obj\Debug\GeometricalFigureSquare.pdb

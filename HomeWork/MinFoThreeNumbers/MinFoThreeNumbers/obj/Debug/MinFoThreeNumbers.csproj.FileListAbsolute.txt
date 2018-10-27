@@ -1,6 +1,0 @@
-D:\Downloads\Distrz\c#\MinFoThreeNumbers\MinFoThreeNumbers\bin\Debug\MinFoThreeNumbers.exe.config
-D:\Downloads\Distrz\c#\MinFoThreeNumbers\MinFoThreeNumbers\bin\Debug\MinFoThreeNumbers.exe
-D:\Downloads\Distrz\c#\MinFoThreeNumbers\MinFoThreeNumbers\bin\Debug\MinFoThreeNumbers.pdb
-D:\Downloads\Distrz\c#\MinFoThreeNumbers\MinFoThreeNumbers\obj\Debug\MinFoThreeNumbers.csprojResolveAssemblyReference.cache
-D:\Downloads\Distrz\c#\MinFoThreeNumbers\MinFoThreeNumbers\obj\Debug\MinFoThreeNumbers.exe
-D:\Downloads\Distrz\c#\MinFoThreeNumbers\MinFoThreeNumbers\obj\Debug\MinFoThreeNumbers.pdb

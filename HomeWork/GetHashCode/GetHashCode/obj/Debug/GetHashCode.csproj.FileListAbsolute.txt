@@ -1,7 +1,0 @@
-D:\gm\c#\HomeWork\GetHashCode\GetHashCode\bin\Debug\GetHashCode.exe.config
-D:\gm\c#\HomeWork\GetHashCode\GetHashCode\bin\Debug\GetHashCode.exe
-D:\gm\c#\HomeWork\GetHashCode\GetHashCode\bin\Debug\GetHashCode.pdb
-D:\gm\c#\HomeWork\GetHashCode\GetHashCode\obj\Debug\GetHashCode.csprojResolveAssemblyReference.cache
-D:\gm\c#\HomeWork\GetHashCode\GetHashCode\obj\Debug\GetHashCode.csproj.CoreCompileInputs.cache
-D:\gm\c#\HomeWork\GetHashCode\GetHashCode\obj\Debug\GetHashCode.exe
-D:\gm\c#\HomeWork\GetHashCode\GetHashCode\obj\Debug\GetHashCode.pdb
