@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{88E51BEA-18DD-4393-A642-62645E817DF4}</ProjectGuid>
+    <ProjectGuid>{36B6F8D1-3C26-416E-83CF-393055F0772B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FiguresArea</RootNamespace>
-    <AssemblyName>FiguresArea</AssemblyName>
+    <RootNamespace>Interface</RootNamespace>
+    <AssemblyName>Interface</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FigureLibrary">
+      <HintPath>..\..\Library\FigureLibrary\bin\Debug\netstandard2.0\FigureLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,12 +51,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\FigureLibrary\FigureLibrary.csproj">
-      <Project>{01d56dad-cdb6-4712-9328-72d0329b6b1d}</Project>
-      <Name>FigureLibrary</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

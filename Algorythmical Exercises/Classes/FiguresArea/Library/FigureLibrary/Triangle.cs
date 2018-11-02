@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FigureLibrary
 {
-    public class Triangle : Figure
+    public class Triangle : IFigure
     {
         private double _sideA;
         private double _sideB;
@@ -12,7 +12,7 @@ namespace FigureLibrary
 
         private List<double> sides = new List<double>(3);
 
-        public double SideA
+        private double SideA
         {
             get
             {
@@ -23,10 +23,12 @@ namespace FigureLibrary
                 if (value < 0)
                 {
                     Console.WriteLine("Значение стороны треугольника не может быть отрицательным!");
+                    _sideA = -1;
                 }
                 else if (value > double.MaxValue)
                 {
                     Console.WriteLine("Значение стороны треугольника превышает допустимое значение!");
+                    _sideA = -1;
                 }
                 else
                 {
@@ -36,7 +38,7 @@ namespace FigureLibrary
             }
         }
 
-        public double SideB
+        private double SideB
         {
             get
             {
@@ -47,10 +49,12 @@ namespace FigureLibrary
                 if (value < 0)
                 {
                     Console.WriteLine("Значение стороны треугольника не может быть отрицательным!");
+                    _sideB = -1;
                 }
                 else if (value > double.MaxValue)
                 {
                     Console.WriteLine("Значение стороны треугольника превышает допустимое значение!");
+                    _sideB = -1;
                 }
                 else
                 {
@@ -60,7 +64,7 @@ namespace FigureLibrary
             }
         }
 
-        public double SideC
+        private double SideC
         {
             get
             {
@@ -71,10 +75,12 @@ namespace FigureLibrary
                 if (value < 0)
                 {
                     Console.WriteLine("Значение стороны треугольника не может быть отрицательным!");
+                    _sideC = -1;
                 }
                 else if (value > double.MaxValue)
                 {
                     Console.WriteLine("Значение стороны треугольника превышает допустимое значение!");
+                    _sideC = -1;
                 }
                 else
                 {
@@ -90,27 +96,24 @@ namespace FigureLibrary
             SideB = sideB;
             SideC = sideC;
         }
-        public override double GetArea()
-        {            
-            try
+
+        public double GetArea()
+        {                            
+            sides.Sort();
+            double area;
+            if (SideA == -1 || SideB == -1 || SideC == -1)
             {
-                sides.Sort();
-                double area;
-                if (Math.Pow(sides[0], 2) + Math.Pow(sides[1], 2) == Math.Pow(sides[2], 2))
-                {
-                    return area = Math.Round((sides[0] * sides[1]) / 2, 2);
-                }
-                else
-                {
-                    double p = (sides[0] + sides[1] + sides[2]) / 2;
-                    return area = Math.Round(Math.Sqrt(p * (p - sides[0]) * (p - sides[1]) * (p - sides[2])), 2);
-                }
+                return -1;
             }
-            catch (Exception ex)
+            else if (Math.Pow(sides[0], 2) + Math.Pow(sides[1], 2) == Math.Pow(sides[2], 2) && sides.Count == 3)
             {
-                Console.WriteLine(ex.Message);
-                return -1;                
-            }                     
+                return area = Math.Round((sides[0] * sides[1]) / 2, 2);
+            }
+            else
+            {
+                double p = (SideA + SideB + SideC) / 2;
+                return area = Math.Round(Math.Sqrt(p * (p - SideA) * (p - SideB) * (p - SideC)), 2);
+            }        
         }
     }
 }

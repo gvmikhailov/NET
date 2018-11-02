@@ -4,11 +4,11 @@ using System.Text;
 
 namespace FigureLibrary
 {
-    public class Circle : Figure
+    public class Circle : IFigure
     {
         private double _radius;
 
-        public double Radius
+        private double Radius
         {
             get
             {
@@ -38,7 +38,7 @@ namespace FigureLibrary
             Radius = radius;
         }
 
-        public override double GetArea()
+        public double GetArea()
         {
             if (Radius == -1)
             {
