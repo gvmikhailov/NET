@@ -1,5 +1,5 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using FigureLibrary;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Library;
 
 namespace UnitTests
 {
@@ -14,7 +14,7 @@ namespace UnitTests
             double side3 = 5;
             double expectedArea = 6;
 
-            IFigure triangle = new Triangle { SideA = side1, SideB = side2, SideC = side3 };
+            IFigure triangle = new Triangle (side1, side2, side3);
             double actualArea = triangle.GetArea();
 
             Assert.AreEqual(expectedArea, actualArea);
@@ -28,7 +28,7 @@ namespace UnitTests
             double side3 = 10;
             double expectedArea = 24;
 
-            IFigure triangle = new Triangle { SideA = side1, SideB = side2, SideC = side3 };
+            IFigure triangle = new Triangle (side1, side2, side3);
             double actualArea = triangle.GetArea();
 
             Assert.AreEqual(expectedArea, actualArea);
@@ -42,11 +42,10 @@ namespace UnitTests
             double side3 = 5.83;
             double expectedArea = 7.5;
 
-            IFigure triangle = new Triangle { SideA = side1, SideB = side2, SideC = side3 };
+            IFigure triangle = new Triangle (side1, side2, side3);
             double actualArea = triangle.GetArea();
 
             Assert.AreEqual(expectedArea, actualArea);
         }
-
     }
 }

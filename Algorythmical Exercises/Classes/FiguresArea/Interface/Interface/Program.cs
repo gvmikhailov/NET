@@ -1,5 +1,7 @@
 ﻿using System;
 using FigureLibrary;
+using System.ComponentModel.DataAnnotations;
+using System.Collections.Generic;
 
 namespace Interface
 {
@@ -7,17 +9,32 @@ namespace Interface
     {
         static void Main(string[] args)
         {
-            IFigure circle = new Circle(10);
-            Console.WriteLine(circle.GetArea());
-            IFigure circle1 = new Circle(-10);
-            Console.WriteLine(circle1.GetArea());
-
-            IFigure triangle = new Triangle(2, 3, 4);
-            Console.WriteLine(triangle.GetArea());
-            IFigure triangle1 = new Triangle(-5, 8, 11);
-            Console.WriteLine(triangle1.GetArea());
-            IFigure triangle2 = new Triangle(2, 3, 4.6);
-            Console.WriteLine(triangle2.GetArea());
-        }
+            // Some code, which will be validate data to constructors:
+            try
+            {
+                Console.WriteLine("Ведите радиус окружности: ");
+                double radius = Double.Parse(Console.ReadLine());
+                IFigure circle = new Circle { Radius = radius };
+                var results = new List<ValidationResult>();
+                var context = new ValidationContext(circle);
+                if (!Validator.TryValidateObject(circle, context, results, true))
+                {
+                    foreach (var error in results)
+                    {
+                        Console.WriteLine(error.ErrorMessage);
+                    }
+                }
+                else
+                {
+                    Console.WriteLine(circle.GetArea());
+                }
+                // The Same code for triangles and some other figures
+                Console.ReadKey();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }    
     }
 }
