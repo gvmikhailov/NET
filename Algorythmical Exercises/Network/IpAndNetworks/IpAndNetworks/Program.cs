@@ -8,7 +8,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 // Программа для поиска вхождения списка адресов в список сетей. На выходе в консоль отдается список сетей, в которые входят адреса.
-// Написана для периодичекого мониторинга заблокированных ip Роскомнадзором в сетях облака Амазон.
+// Написана для периодичекого мониторинга заблокированных ip Роскомнадзором в сетях Atlassian.
 
 namespace IpAndNetworks
 {
@@ -17,32 +17,41 @@ namespace IpAndNetworks
 
         static List<string> addresses = new List<string>();
         static List<string> networks = new List<string>();
-        static List<string> resultNt = new List<string>();
+        static List<string> resultAddr = new List<string>();
         static string pathAddr = @"D:\gm\SharpOld\dump.txt";
         static string pathNet = @"D:\gm\SharpOld\Networks.txt";
         static string log = @"D:\gm\SharpOld\Log.txt";
+        static string adds = @"D:\gm\SharpOld\Addresses.txt";
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Let`s Start...");
             AddAllAddresses();
             var readyAddresses = addresses.Distinct();
             AddNetworks();
             foreach(string address in readyAddresses)
             {
-                resultNt.Add(ReturnNetwork(address));
+                resultAddr.Add(ReturnNetwork(address));
             }
-            var rasultNets = resultNt.Distinct();
-            foreach(string result in rasultNets)
+            List<string> resultAddrs = resultAddr.Distinct().ToList();
+            var nets = AggregateNets(resultAddrs);
+
+            using (StreamWriter writer = new StreamWriter(adds, true))
             {
-                if(result != string.Empty)
+                foreach (string result in nets)
                 {
-                    Console.WriteLine(result);
-                }
-                else
-                {
-                    continue;
-                }
+                    if (result != string.Empty)
+                    {
+                        writer.WriteLine(result);
+                    }
+                    else
+                    {
+                        continue;
+                    }
+                }               
             }
+            Console.WriteLine("Finish");
+            Console.ReadKey();
         }
 
         public static string ReturnNetwork(string ip)
@@ -56,7 +65,7 @@ namespace IpAndNetworks
 
                     if (network.Contains(incomingIp))
                     {
-                        return subnet;
+                        return ip;
                     }
                     else
                     {
@@ -131,5 +140,48 @@ namespace IpAndNetworks
                 Console.WriteLine(ex.Message);
             }
         }
+
+        public static List<string> AggregateNets (List<string> addresses)
+        {
+            List<string> nets = new List<string>();
+            Regex half = new Regex(@"\d{1,3}$");
+            for (int i = 0; i < addresses.Count; i++)
+            {
+                string part = half.Replace(addresses[i], "");
+                int counter = 0;
+                for (int j = i; j < addresses.Count; j++)
+                {
+                    if (addresses[j].Contains(part))
+                    {
+                        counter += 1;
+                    }
+                    else
+                    {
+                        continue;
+                    }
+                }
+                int cnt = 0;
+                foreach (string prt in nets)
+                {
+                    if (prt.Contains(part))
+                    {
+                        cnt += 1;
+                    }
+                }
+                if (counter >= 2 && cnt == 0)
+                {
+                    nets.Add(part + "0/24");
+                }
+                else if (counter < 2 && cnt == 0)
+                {
+                    nets.Add(addresses[i] + "/32");
+                }
+                else
+                {
+                    continue;
+                }
+            }
+            return nets;
+        }         
     }
 }
