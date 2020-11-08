@@ -10,9 +10,8 @@ namespace Goods
         public string GoodName { get; set; }
     }
 
-    public class ApplicationContext : DbContext
+    public partial class ApplicationContext : DbContext
     {
-        public DbSet<Goods> Goods { get; set; }
         public ApplicationContext()
         {
             Database.EnsureCreated();
@@ -20,7 +19,16 @@ namespace Goods
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"ConnectionString");
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer(@"ConnectionString");
+            }
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+        }
+
+        public virtual DbSet<Goods> Goods { get; set; }
     }
 }
