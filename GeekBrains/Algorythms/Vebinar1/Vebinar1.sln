@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difficulty", "Vebinar1\Difficulty.csproj", "{56727B78-A24E-4012-BAC7-526D0F7A2867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{F885726D-9C19-47E7-838D-481C6872097B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flowchart", "Flowchart\Flowchart.csproj", "{17D350D9-87B2-4771-B100-76E7B0DB2C46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56727B78-A24E-4012-BAC7-526D0F7A2867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56727B78-A24E-4012-BAC7-526D0F7A2867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56727B78-A24E-4012-BAC7-526D0F7A2867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56727B78-A24E-4012-BAC7-526D0F7A2867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F885726D-9C19-47E7-838D-481C6872097B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F885726D-9C19-47E7-838D-481C6872097B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F885726D-9C19-47E7-838D-481C6872097B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F885726D-9C19-47E7-838D-481C6872097B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D350D9-87B2-4771-B100-76E7B0DB2C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D350D9-87B2-4771-B100-76E7B0DB2C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D350D9-87B2-4771-B100-76E7B0DB2C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D350D9-87B2-4771-B100-76E7B0DB2C46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1C1F657-BB10-438A-9893-1DE6A111FD49}
+	EndGlobalSection
+EndGlobal
