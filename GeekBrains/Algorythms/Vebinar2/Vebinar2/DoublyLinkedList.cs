@@ -27,6 +27,7 @@ namespace Vebinar2
             {
                 element.NextNode = null;
                 element.PreviousNode = _last;
+                _last = element;
             }
             _counter++;
         }
@@ -90,9 +91,17 @@ namespace Vebinar2
         public void RemoveNode(Node node) 
         {
             if (node.PreviousNode == null)
-                _first = node.NextNode;
+            {
+                node.PreviousNode = null;
+                node.NextNode = _first.NextNode;
+                _first = node;
+            }                
             else if (node.NextNode == null)
-                _last = node.PreviousNode;
+            {
+                node.PreviousNode = _last.PreviousNode;
+                node.NextNode = null;
+                _last = node;
+            }                
             else
             {
                 node.PreviousNode.NextNode = node.NextNode;
