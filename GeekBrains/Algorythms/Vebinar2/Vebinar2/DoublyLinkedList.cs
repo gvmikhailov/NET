@@ -27,6 +27,7 @@ namespace Vebinar2
             {
                 element.NextNode = null;
                 element.PreviousNode = _last;
+                element.PreviousNode.NextNode = element;
                 _last = element;
             }
             _counter++;
@@ -77,12 +78,10 @@ namespace Vebinar2
                 RemoveNode(_last);
             else
             {
-                int count = 1;
                 _current = _first;
-                while (_current != null && count != index)
+                for (int i = 1; _current != null && i < index; i++)
                 {
                     _current = _current.NextNode;
-                    count++;
                 }
                 RemoveNode(_current);
             }

@@ -10,6 +10,7 @@ namespace Vebinar2
             list.AddNode(15);
             list.AddNode(20);
             list.AddNode(25);
+            list.RemoveNode(2);
         }
     }
 }
