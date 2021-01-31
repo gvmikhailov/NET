@@ -173,11 +173,6 @@ namespace BinaryTree
             return false;
         }
 
-        public void Print()
-        {
-
-        }
-
         public override string ToString()
         {
             return Value.ToString();
