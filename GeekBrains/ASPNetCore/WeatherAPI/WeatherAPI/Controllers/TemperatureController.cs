@@ -54,7 +54,7 @@ namespace WeatherAPI.Controllers
         }
 
         [HttpDelete("delete")]
-        public string Delete([FromBody] DateScope scope)
+        public IActionResult Delete([FromBody] DateScope scope)
         {
             List<WeatherData> toDelete = _holder.TemperatureData.Where(i => i.Date >= scope.DateFrom && i.Date <= scope.DateTo).ToList();
             foreach (var t in toDelete)
