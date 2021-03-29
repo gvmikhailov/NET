@@ -18,9 +18,9 @@ namespace WeatherAPI.Controllers
         }
 
         [HttpGet("read")]
-        public IEnumerable<WeatherData> Get([FromQuery] DateTime dateFrom, [FromQuery] DateTime dateTo)
+        public IEnumerable<WeatherData> Get([FromBody] DateScope scope)
         {
-            return _holder.TemperatureData.Where(i => i.Date >= dateFrom && i.Date <= dateTo).ToArray();
+            return _holder.TemperatureData.Where(i => i.Date >= scope.DateFrom && i.Date <= scope.DateTo).ToArray();
         }
 
         [HttpPost("set")]
