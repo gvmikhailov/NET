@@ -24,44 +24,44 @@ namespace WeatherAPI.Controllers
         }
 
         [HttpPost("set")]
-        public IActionResult Set([FromBody] WeatherData data)
+        public string Set([FromBody] WeatherData data)
         {
             if (!_holder.TemperatureData.Contains(data))
             {
                 _holder.TemperatureData.Add(data);
-                return OK();
+                return "Значение успешно добавлено";
             }
             else
             {
-                return NotFound();
+                return "Неподдерживаемый метод!";
             }
         }
 
-        [HttpPut("update")]
-        public IActionResult Update([FromBody] WeatherData data)
+        [HttpPost("update")]
+        public string Update([FromBody] WeatherData data)
         {
             if (_holder.TemperatureData.Contains(data))
             {
                 int elem = _holder.TemperatureData.IndexOf(data);
                 _holder.TemperatureData[elem].Date = data.Date;
                 _holder.TemperatureData[elem].Temperature = data.Temperature;
-                return OK();
+                return "Значение успешно обновлено";
             }
             else
             {
-                return NotFound();
+                return "Невозможно изменить элемент, так как его не существует!";
             }
         }
 
-        [HttpDelete("delete")]
-        public IActionResult Delete([FromBody] DateScope scope)
+        [HttpPost("delete")]
+        public string Delete([FromBody] DateScope scope)
         {
             List<WeatherData> toDelete = _holder.TemperatureData.Where(i => i.Date >= scope.DateFrom && i.Date <= scope.DateTo).ToList();
             foreach (var t in toDelete)
             {
                 _holder.TemperatureData.Remove(t);
             }
-            return OK();
+            return "Данные успешно удалены!";
         }
     }
 }
